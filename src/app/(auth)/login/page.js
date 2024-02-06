@@ -10,7 +10,7 @@ const LoginPage = () => {
     <div>
       <Authentication>
         <Text sx={authStyle.title}>
-          User sign ins
+          User sign in
         </Text>
         <LoginForm />
         <Flex sx={authStyle.signupContainer}>
